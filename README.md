@@ -1,3 +1,6 @@
 # News-Search-Engine
 
-https://github.com/shakshi/News-Search-Engine/blob/master/screenshots/autocomplete.png
+
+## Autocomplete
+<img src="https://github.com/shakshi/News-Search-Engine/blob/master/screenshots/autocomplete.png" height="200" >
+<br />
